@@ -39,7 +39,7 @@ class Chisom{
 		TimerTask task = new TimerTask(){
 			
 			public void run(){
-				System.out.println("Starting....");
+				System.out.println("Starting.....");
 //				for(int i = 0; i <= 10; i++){
 //					System.out.println("Starting...");
 //					System.out.println("Timer: " + i);
